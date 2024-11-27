@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**NikolayKozlovskiy/NikolayKozlovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Languages I Code In
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools I Use
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/google-earth.png" alt="Google Earth Engine" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" height="40"/>
+</p>
